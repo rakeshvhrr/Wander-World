@@ -16,7 +16,7 @@ Wander world is a web dev project created using Node.js, Express, MongoDB, and B
 2. Create a cloudinary account to get an API key and secret code
 
 ```
-git clone https://github.com/Asthasachan/Wander-World.git
+git clone https://github.com/rakeshvhrr/Wander-World.git
 cd Wander-World
 npm install
 ```
